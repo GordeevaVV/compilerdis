@@ -57,7 +57,7 @@ namespace CShCompiler
             // 
             // FAnalizator
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(431, 349);
             this.Controls.Add(this.btClose);
@@ -66,6 +66,7 @@ namespace CShCompiler
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "FAnalizator";
             this.RightToLeftLayout = true;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Анализатор";
             this.ResumeLayout(false);
 
