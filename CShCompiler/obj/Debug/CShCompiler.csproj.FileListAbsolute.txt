@@ -1,0 +1,10 @@
+C:\Users\gorde\Source\Repos\GordeevaVV\compilerdis\CShCompiler\obj\Debug\CShCompiler.csproj.AssemblyReference.cache
+C:\Users\gorde\Source\Repos\GordeevaVV\compilerdis\CShCompiler\obj\Debug\CShCompiler.FAnalizator.resources
+C:\Users\gorde\Source\Repos\GordeevaVV\compilerdis\CShCompiler\obj\Debug\CShCompiler.Properties.Resources.resources
+C:\Users\gorde\Source\Repos\GordeevaVV\compilerdis\CShCompiler\obj\Debug\CShCompiler.csproj.GenerateResource.cache
+C:\Users\gorde\Source\Repos\GordeevaVV\compilerdis\CShCompiler\obj\Debug\CShCompiler.csproj.CoreCompileInputs.cache
+C:\Users\gorde\Source\Repos\GordeevaVV\compilerdis\CShCompiler\bin\Debug\CShCompiler.exe.config
+C:\Users\gorde\Source\Repos\GordeevaVV\compilerdis\CShCompiler\bin\Debug\CShCompiler.exe
+C:\Users\gorde\Source\Repos\GordeevaVV\compilerdis\CShCompiler\bin\Debug\CShCompiler.pdb
+C:\Users\gorde\Source\Repos\GordeevaVV\compilerdis\CShCompiler\obj\Debug\CShCompiler.exe
+C:\Users\gorde\Source\Repos\GordeevaVV\compilerdis\CShCompiler\obj\Debug\CShCompiler.pdb
